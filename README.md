@@ -18,7 +18,7 @@ I am currently working on several exciting projects in the field of AI and data 
 
 
 ### Let's Connect!
-<a href="https://www.linkedin.com/in/junervin">
+<a href="https://www.linkedin.com/in/junervin" style="margin-right: 10px;">
   <img height="35" alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
 </a>
 
