@@ -18,5 +18,11 @@ I am currently working on several exciting projects in the field of AI and data 
 
 
 ### Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/junervin)  
-- [GitHub Projects](https://github.com/junervin12)
+<a href="https://www.linkedin.com/in/junervin">
+  <img height="40" alt="LinkedIn" src="https://raw.githubusercontent.com/github/explore/main/topics/linkedin/linkedin.png">
+</a>
+
+<a href="https://github.com/junervin12">
+  <img height="40" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png">
+</a>
+
