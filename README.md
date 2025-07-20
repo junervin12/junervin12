@@ -1,7 +1,7 @@
 # Hi, I'm [Junervin](https://github.com/junervin12) 👋
 
 ### About Me
-I am an enthusiastic Data scientist, AI Engineer, and Lecturer with a deep passion for leveraging innovative technology to solve complex problems. I specialize in **Machine Learning**, **Data Analysis**, and **Artificial Intelligence**, continuously exploring new tools and techniques to push the boundaries of what's possible. 
+I am an enthusiastic Data scientist, AI Engineer, and Lecturer. I specialize in **Machine Learning**, **Data Analysis**, and **Artificial Intelligence**. 
 
 ### Tech Stack
 <code><img height="40" alt="laravel" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"></code>
